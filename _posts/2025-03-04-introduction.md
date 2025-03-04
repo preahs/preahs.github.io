@@ -6,7 +6,7 @@ categories: [Blogging, General]
 tags: [writing]     # TAG names should always be lowercase
 pin: true
 image:
-    path: /assets/img/preah-tree.JPEG
+    path: /assets/img/preah-tree.jpeg
     alt: Preah sitting against a tree
 ---
 
