@@ -6,7 +6,7 @@ categories: [Blogging, General]
 tags: [writing]     # TAG names should always be lowercase
 pin: true
 image:
-    path: /assets/img/preah-tree.jpeg
+    path: /assets/img/preah-tree.JPEG
     alt: Preah sitting against a tree
 ---
 
@@ -35,7 +35,7 @@ Once you have an account, scroll to the bottom of this post and click on the smi
 
 The comment formatting supports styling with markdown. For example, you can make a word italic in your comment by wrapping it with asterisks (*) or underscores (_). A guide on what you can do can be found [here in the GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![Desktop View](/assets/img/commenting.png){: width="972" height="589" }
+![Desktop View](/assets/img/commenting.PNG){: width="972" height="589" }
 _Italicizing words in a comment_
 
 ## Ending Notes
