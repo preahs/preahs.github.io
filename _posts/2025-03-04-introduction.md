@@ -12,16 +12,13 @@ image:
 
 ## Introduction
 
-> One of the posts mentioned in this article is still a work-in-progress. Therefore, the link to it does not work yet.
-{: .prompt-warning }
-
 Hello, my name is Preah and this is my website. The purpose of making a personal website was originally inspired by the desire for privacy and control over my own data, separate from the whims of mainstream social media sites such as Instagram, Facebook, and Twitter.
 
 Is an Instagram profile set to private more "private" than a website that anyone can navigate to on the internet? In one way, yes. However, the type of privacy I refer to is more concerned with mass data collection and profiling of users by corporations in order to serve personalized advertisements and generate profit. I personally cannot stand advertisements in any form, and a website of my own will never have ads of any kind or attempt to profit in any way.
 
 Next, I have complete control over my own data. My website's source code is not only on [GitHub](https://github.com/preahs/preahs.github.io), but on my local computer, where I can edit it however I want. A social media site like instagram could delete my account whenever they choose, and implement any feature they wish to force upon me. Meanwhile, through learning from the wonderful community of developers and open-source projects, I can add any feature I might want my website to have with enough dedication. Because of [Cotes](https://github.com/cotes2020), for example, I have a website in the first place with features such as post interaction and comments.
 
-I want my family and friends to be able to view my photos and videos from my travels, see my personal thoughts and opinions, and access my contact information easily in one place with no intrusive advertising, data collection, or distractions. No signing up for anything simply to view a post. And for everyone's convenience, you can add my website to your favorite RSS feed source. More information on what that is and how to do it on my [The Importance of RSS feeds](https://preahs.github.io/posts/the-importance-of-rss-feeds) post.
+I want my family and friends to be able to view my photos and videos from my travels, see my personal thoughts and opinions, and access my contact information easily in one place with no intrusive advertising, data collection, or distractions. No signing up for anything simply to view a post. And for everyone's convenience, you can add my website to your favorite RSS feed source. More information on what that is and how to do it on my post [Why RSS Feeds Are Still Relevant and How to Use Them](https://preahs.github.io/posts/why-rss-feeds-are-still-relevant-and-how-to-use-them).
 
 ## Interact With My Website
 
