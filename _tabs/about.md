@@ -12,5 +12,5 @@ I believe in having creative control over how I present my work. Read more about
 
 Thanks for stopping by! Feel free to explore and reach out if you'd like to connect.
 
-![Desktop View](/assets/img/preah-pub.jpg){: width="3000" height="4000" }
+![Desktop View](/assets/img/preah-pub.jpg){: width="600" height="799" }
 _Preah at O'Shea's of Talbot Street in Dublin, Ireland_
