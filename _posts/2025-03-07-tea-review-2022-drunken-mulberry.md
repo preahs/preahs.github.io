@@ -11,9 +11,9 @@ image:
 
 ## Specifications
 
-| Type       | Company        | Time      | Temperature  | Weight | Water | Buy                    |
-| :--------: | :------------: | :-------: | :----------: | :----: | :---: | :--------------------: |
-| Aged White | West China Tea | 6 seconds | 212F -> 205F | 7g     | 220ml | [West China Tea Website](https://westchinatea.com/50g-2022-drunken-mulberry-garden-shou-mei-brick/) |
+| Type       | Company        | Tasting Notes                              | Time      | Temperature  | Weight | Water | Buy                    |
+| :--------: | :------------: | :----------------------------------------: | :-------: | :----------: | :----: | :---: | :--------------------: |
+| Aged White | West China Tea | Berries, Buttery, Floral, Jam              | 6 seconds | 212F -> 205F | 7g     | 220ml | [West China Tea Website](https://westchinatea.com/50g-2022-drunken-mulberry-garden-shou-mei-brick/) |
 
 # Equipment
 
