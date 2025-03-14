@@ -1,7 +1,7 @@
 ---
 title: Reviewing Iconfactory's Tapestry
 description: A quick overview of the Tapestry app for iOS.
-date: 2025-03-14 12:40:00 -06:00
+date: 2025-03-14 13:13:00 -06:00
 categories: [Blogging, General]
 tags: [review, informational]     # TAG names should always be lowercase
 image:
