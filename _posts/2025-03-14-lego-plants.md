@@ -16,7 +16,7 @@ We're trying to do more involved activities like crafts, and lego is seeming lik
 We were giving [hbomberguy's ROBLOX_OFF.mp3](https://www.youtube.com/watch?v=0twDETh6QaI) video a rewatch for background noise too.
 
 ![Desktop View](/assets/img/lego2.jpeg){: width="972" height="589" }
-_Full screen width and center alignment_
+_Fully built_
 
 ![Desktop View](/assets/img/lego-eliza.mov){: width="972" height="589" }
-_Full screen width and center alignment_
+_Eliza sticking her head in the box, as she tends to do_
