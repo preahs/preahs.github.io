@@ -28,7 +28,7 @@ Here is excerpts from [Iconfactory's blog](https://blog.iconfactory.com/2025/02/
 >
 >We've worked hard to craft ads that are harmonious, visually appealing, and for things you might want to see or use. But most importantly, we have done all this with your privacy in mind: there is no tracking and there never will be.
 
-Honestly, this was mind-blowing to me once I downloaded and saw the app in action. Gorgeous visual design, tons of customization, privacy-focused, and with limited ads. Oh let's talk about the ads more, because this was fascinating to me.
+Honestly, this was mind-blowing to me once I downloaded and saw the app in action. Gorgeous visual design, tons of customization, privacy-focused, and with limited ads. Oh, let's talk about the ads more, because this was fascinating to me.
 
 If you know me, you know that I am very hostile toward ads. I won't use an app or website or browser if it means I cannot block ads. I set up a [Pi-Hole](https://pi-hole.net/) to block ads network-wide in my household. Chrome is off the table entirely since they [removed support for adblockers like uBlock Origin](https://www.forbes.com/sites/kateoflahertyuk/2024/10/17/google-chrome-users-just-got-another-new-reason-to-switch/).
 
