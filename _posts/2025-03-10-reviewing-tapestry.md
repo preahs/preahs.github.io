@@ -18,15 +18,15 @@ Here is excerpts from [Iconfactory's blog](https://blog.iconfactory.com/2025/02/
 
 > After a successful Kickstarter campaign, and ten months of development, Tapestry is finally an App Store reality.
 >
->Tapestry presents content in chronological order, with no algorithm or other person deciding what you should or shouldn’t see. Content can come from social media services like Bluesky, Mastodon, or Tumblr, as well as RSS feeds, podcasts, YouTube channels, and others. All in the palm of your hand with no tracking.
+>Tapestry presents content in chronological order, with no algorithm or other person deciding what you should or shouldn't see. Content can come from social media services like Bluesky, Mastodon, or Tumblr, as well as RSS feeds, podcasts, YouTube channels, and others. All in the palm of your hand with no tracking.
 
 > A Unique Approach to Ads
 >
 >We hate internet advertising and so do you.
 >
->That’s why we made our own ad network for Twitterrific. With Tapestry, we’ve taken what we learned there and improved it for the better.
+>That's why we made our own ad network for Twitterrific. With Tapestry, we've taken what we learned there and improved it for the better.
 >
->We’ve worked hard to craft ads that are harmonious, visually appealing, and for things you might want to see or use. But most importantly, we have done all this with your privacy in mind: there is no tracking and there never will be.
+>We've worked hard to craft ads that are harmonious, visually appealing, and for things you might want to see or use. But most importantly, we have done all this with your privacy in mind: there is no tracking and there never will be.
 
 Honestly, this was mind-blowing to me once I downloaded and saw the app in action. Gorgeous visual design, tons of customization, privacy-focused, and with limited ads. Oh let's talk about the ads more, because this was fascinating to me.
 
