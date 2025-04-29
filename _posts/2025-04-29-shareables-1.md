@@ -1,5 +1,5 @@
 ---
-title: Shareables \#1
+title: Shareables n. 1
 description: Interesting things I wanted to share.
 date: 2025-04-29 14:51:00 -06:00
 categories: [Casual, Shareables]
