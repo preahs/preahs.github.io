@@ -37,10 +37,10 @@ I recently purchased a used Dell PowerEdge R730, which is a 2U rack-mounted ente
 - Total RAM (GB): 16
 - Maximum Memory Supported (GB): 768
 
-![Desktop View](/assets/img/server_front.jpeg){: width="240" height="108" }
+![Desktop View](/assets/img/server_front.jpeg){: width="540" height="408" }
 _Front of the server_
 
-![Desktop View](/assets/img/server_back.jpeg){: width="240" height="108" }
+![Desktop View](/assets/img/server_back.jpeg){: width="540" height="408" }
 _Back of the server_
 
 Yes, I have it on a table on wood blocks instead of a rack for now. I swear I'll buy a rack soon when I have the funds. I just also have 8 drives and a surge protector that can handle the power draw on my wishlist 🫠.
@@ -49,7 +49,7 @@ Upon arrival, I had to buy two power cables and a BOSS adapter with an M.2 SSD. 
 
 I was really pleased to find out that iDRAC exists. iDRAC, which stands for Integrated Dell Remote Access Controller, is a proprietary technology developed by Dell that provides out-of-band management for Dell servers. It allows system administrators to remotely monitor, manage, update, and troubleshoot servers regardless of the operating system status or even whether the system is powered on or not! iDRAC functions independently of the server’s primary CPU and operating system by using a dedicated network port, which means administrators can access the server even if it is unresponsive or offline. That means it was much easier than initially expected to log onto it and power it off and on remotely. I can even see a virtual depiction of the screen on my desktop and make selections from there.
 
-![Desktop View](/assets/img/server_idrac.jpeg){: width="240" height="108" }
+![Desktop View](/assets/img/server_idrac.jpeg){: width="540" height="408" }
 _The iDRAC port_
 
 Proxmox was pretty overwhelming at first. There are so many options, since it's such a powerful operating system and hypervisor. I messed around with some LXC containers before I found out there is this extremely useful tool called [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/scripts). It's a community led database of scripts that automate the process of installing self-hosted services such as Jellyfin, Plex, Karakeep, Pi-hole, Cloudflared, Tailscale, and more. I have been making a lot of use out of this, and used those to so far install Cloudflared, Karakeep, Paperless-ngx, Pi-hole, and Tandoor.
