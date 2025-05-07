@@ -19,6 +19,8 @@ Similar to how your average social media like Twitter has all of your followed a
 
 I enjoy RSS feeds because I don't have to manually check blogs I like. You can actually add social media accounts as well, such as Twitter, Instagram, and YouTube. This means you don't have to log into your account and risk getting lost on the platform. If you're someone who wants to reduce and be more intentional about social media consumption habits, reduce ads in your life, and remove distractions, this may be appealing to you. No more algorithmically determined suggestions. Additionally, many RSS readers allow you to download articles for reading later, even without an internet connection.
 
+Read [About Feeds](https://aboutfeeds.com/) for an extremely user-friendly introduction.
+
 ## How to Use RSS Feeds
 
 Using RSS feeds is simple and requires just a few steps:
