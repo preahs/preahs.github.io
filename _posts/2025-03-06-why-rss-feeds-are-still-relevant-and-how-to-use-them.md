@@ -39,9 +39,6 @@ _The RSS feed button in my site's contact section_
 
 For my site, right click or long-hold on the RSS icon, which looks like a circle with a white dot in the bottom left corner, accompanied by two curved white lines radiating outward, resembling a Wi-Fi signal. Copy the link from it, then paste it into your favorite RSS feed application.
 
-> My website's RSS feed is currently non-functional, but you can save it now for later once it is!
-{: .prompt-warning }
-
 ## Social Media Feeds
 
 Setting up RSS feeds for social media sites is not as straight-forward as doing so for blogs or other similar websites. It goes without saying that social media sites generate revenue off of you visiting and staying on their website, and therefore they do not design their platform around using RSS feeds. If you want more details on this topic plus possibly setting it up for yourself, take a look at [Judy Chen's excellent Medium post about this](https://medium.com/design-bootcamp/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d). The bottom of this article also has recommendations for privacy-focused front-ends for these sites that you can look into as well.
