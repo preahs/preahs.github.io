@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<opml version="1.0"> 
+ <head> 
+  <title>Exported from feeeed</title> 
+ </head> 
+ <body> 
+  <outline type="rss" xmlUrl="https://mertbulan.com/feed.xml" text="Mert Bulan" title="Mert Bulan"></outline>
+  <outline type="rss" xmlUrl="https://www.jeffgeerling.com/blog.xml" text="Jeff Geerling's Blog" title="Jeff Geerling's Blog"></outline>
+  <outline type="rss" xmlUrl="https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml" text="Cheapskates Guide RSS Feed" title="Cheapskates Guide RSS Feed"></outline>
+  <outline type="rss" xmlUrl="https://www.theslowinternet.com/feed/" text="THE SLOW INTERNET" title="THE SLOW INTERNET"></outline>
+  <outline type="rss" xmlUrl="https://sdv.bearblog.dev/feed" text="syndicated debatable views" title="syndicated debatable views"></outline>
+  <outline type="rss" xmlUrl="https://ounapuu.ee/index.xml" text="./techtipsy" title="./techtipsy"></outline>
+  <outline type="rss" xmlUrl="https://codersblock.com/rss.xml" text="Coder's Block" title="Coder's Block"></outline>
+  <outline type="rss" xmlUrl="https://bearblog.stevedylan.dev/feed/" text="Steve's Bear Blog ʕ º ᴥ ºʔ" title="Steve's Bear Blog ʕ º ᴥ ºʔ"></outline>
+  <outline type="rss" xmlUrl="https://herman.bearblog.dev/feed" text="ᕕ( ᐛ )ᕗ Herman's blog" title="ᕕ( ᐛ )ᕗ Herman's blog"></outline>
+  <outline type="rss" xmlUrl="https://tadaima.bearblog.dev/feed/" text="Tadaima." title="Tadaima."></outline>
+  <outline type="rss" xmlUrl="https://polluterofminds.bearblog.dev/feed/?type=rss" text="polluterofminds" title="polluterofminds"></outline>
+  <outline type="rss" xmlUrl="https://basicappleguy.com/basicappleblog?format=rss" text="Basic Apple Guy | Apple Wallpapers, Reviews, and Merch" title="Basic Apple Guy | Apple Wallpapers, Reviews, and Merch"></outline>
+  <outline type="rss" xmlUrl="https://0xgramajo.xyz/feed/?type=rss" text="gramajo's blog" title="gramajo's blog"></outline>
+  <outline type="rss" xmlUrl="https://chameth.com/index.xml" text="Chameth.com" title="Chameth.com"></outline>
+  <outline type="rss" xmlUrl="https://blog.woblick.dev/en/index.xml" text="Woblick.dev Blog" title="Woblick.dev Blog"></outline>
+  <outline type="rss" xmlUrl="https://thefloatingteastem.wordpress.com/feed/" text="茶柱 The Floating Tea Stem" title="茶柱 The Floating Tea Stem"></outline>
+  <outline type="rss" xmlUrl="https://borretti.me/feed" text="Fernando Borretti" title="Fernando Borretti"></outline>
+ </body> 
+</opml>
